@@ -1,0 +1,1 @@
+# qrscanner_pwa
